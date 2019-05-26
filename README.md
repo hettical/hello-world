@@ -1,4 +1,4 @@
 # hello-world
 Keeping the tradition alive.
 
-Working on this github thing etc etc.
+The main goal at this point is to get this working with VSCode.
